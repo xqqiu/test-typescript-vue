@@ -10,7 +10,7 @@
 import HelloWorld from './components/HelloWorld.vue'
 import type { Num, THelloWorld, Bool, Null, Undefined, NumOrString, Person, Person2, Point, Container, Bird, Fish, Triangle, Circle, Square, Shape } from './components/test-type/index'
 
-// const num: Num = 1;
+const num: Num = 1;
 // const helloWorld: THelloWorld = 'hello world'
 // const bool: Bool = true
 // const u: Undefined = undefined
