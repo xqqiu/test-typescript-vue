@@ -12,10 +12,10 @@ import type { Num, THelloWorld, Bool, Null, Undefined, NumOrString, Person, Pers
 
 const num: Num = 1;
 // const helloWorld: THelloWorld = 'hello world'
-// const bool: Bool = true
-// const u: Undefined = undefined
-// const n: Null = null
-// let anything: any = 'true'
+const bool: Bool = true
+const u: Undefined = undefined
+const n: Null = null
+let anything: any = 'true'
 // let numOrString: NumOrString = '1'
 // const num1: number[] = [1]
 // const stirng1: string[] = ['a', 'b', 'c']
